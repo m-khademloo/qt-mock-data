@@ -2,9 +2,9 @@
     "result": {
         "page": 1,
         "pageSize": 30,
-        "actualPageSize": 30,
-        "totalSize": 57,
-        "totalPage": 2,
+        "actualPageSize": 8,
+        "totalSize": 8,
+        "totalPage": 1,
         "data": [
             {
                 "id": 38,
