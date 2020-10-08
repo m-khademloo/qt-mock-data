@@ -1,0 +1,110 @@
+{
+    "result": {
+        "question": {
+            "id": 38,
+            "title": "افسرده و بی انگیزه شدم ،چیکار کنم",
+            "body": "تو سی سالگی حس پیری دارم،افسرده شدم،دیگ اصلا خوشحال نمیشم یا تههتهه دل ببخندم ،کرخت و بی انگیزه بی انرژی فقط روز و شب میکنم",
+            "interactions": {
+                "likes": 27,
+                "comments": 113
+            },
+            "creationDateTime": "2020-03-03T20:18:21.6218632",
+            "user": {
+                "id": 1,
+                "firstName": "لیلا",
+                "lastName": "کریمی",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSw4-Y6_uqxspHRRs08Oj0FcEd0ESJypx0rDg&usqp=CAU",
+                "gender": 2
+            }
+        },
+        "answers": [
+            {
+                "user": {
+                    "id": 1,
+                    "firstName": "لیلا",
+                    "lastName": "کریمی",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSw4-Y6_uqxspHRRs08Oj0FcEd0ESJypx0rDg&usqp=CAU",
+                    "gender": 2
+                },
+                "body": "تو سی سالگی حس پیری دارم،افسرده شدم،دیگ اصلا خوشحال نمیشم یا تههتهه دل ببخندم ،کرخت و بی انگیزه بی انرژی فقط روز و شب میکنم",
+                "interactions": {
+                    "likes": 27
+                },
+                "creationDateTime": "2020-03-03T20:18:21.6218632"
+            },
+            {
+                "user": {
+                    "id": 1,
+                    "firstName": "لیلا",
+                    "lastName": "کریمی",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSw4-Y6_uqxspHRRs08Oj0FcEd0ESJypx0rDg&usqp=CAU",
+                    "gender": 2
+                },
+                "body": "تو سی سالگی حس پیری دارم،افسرده شدم،دیگ اصلا خوشحال نمیشم یا تههتهه دل ببخندم ،کرخت و بی انگیزه بی انرژی فقط روز و شب میکنم",
+                "interactions": {
+                    "likes": 27
+                },
+                "creationDateTime": "2020-03-03T20:18:21.6218632"
+            },
+            {
+                "user": {
+                    "id": 1,
+                    "firstName": "لیلا",
+                    "lastName": "کریمی",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSw4-Y6_uqxspHRRs08Oj0FcEd0ESJypx0rDg&usqp=CAU",
+                    "gender": 2
+                },
+                "body": "تو سی سالگی حس پیری دارم،افسرده شدم،دیگ اصلا خوشحال نمیشم یا تههتهه دل ببخندم ،کرخت و بی انگیزه بی انرژی فقط روز و شب میکنم",
+                "interactions": {
+                    "likes": 27
+                },
+                "creationDateTime": "2020-03-03T20:18:21.6218632"
+            },
+            {
+                "user": {
+                    "id": 1,
+                    "firstName": "لیلا",
+                    "lastName": "کریمی",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSw4-Y6_uqxspHRRs08Oj0FcEd0ESJypx0rDg&usqp=CAU",
+                    "gender": 2
+                },
+                "body": "تو سی سالگی حس پیری دارم،افسرده شدم،دیگ اصلا خوشحال نمیشم یا تههتهه دل ببخندم ،کرخت و بی انگیزه بی انرژی فقط روز و شب میکنم",
+                "interactions": {
+                    "likes": 27
+                },
+                "creationDateTime": "2020-03-03T20:18:21.6218632"
+            },
+            {
+                "user": {
+                    "id": 1,
+                    "firstName": "لیلا",
+                    "lastName": "کریمی",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSw4-Y6_uqxspHRRs08Oj0FcEd0ESJypx0rDg&usqp=CAU",
+                    "gender": 2
+                },
+                "body": "تو سی سالگی حس پیری دارم،افسرده شدم،دیگ اصلا خوشحال نمیشم یا تههتهه دل ببخندم ،کرخت و بی انگیزه بی انرژی فقط روز و شب میکنم",
+                "interactions": {
+                    "likes": 27
+                },
+                "creationDateTime": "2020-03-03T20:18:21.6218632"
+            },
+            {
+                "user": {
+                    "id": 1,
+                    "firstName": "لیلا",
+                    "lastName": "کریمی",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSw4-Y6_uqxspHRRs08Oj0FcEd0ESJypx0rDg&usqp=CAU",
+                    "gender": 2
+                },
+                "body": "تو سی سالگی حس پیری دارم،افسرده شدم،دیگ اصلا خوشحال نمیشم یا تههتهه دل ببخندم ،کرخت و بی انگیزه بی انرژی فقط روز و شب میکنم",
+                "interactions": {
+                    "likes": 27
+                },
+                "creationDateTime": "2020-03-03T20:18:21.6218632"
+            }
+        ]
+    },
+    "error": null,
+    "statusCode": 200,
+    "serverDateTime": "2020-10-07T15:13:26.7637715+03:30"
+}
