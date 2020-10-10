@@ -1,0 +1,18 @@
+{
+    "result": {
+        "update": {
+            "status": "2",
+            "message": "این ورژن تا تاریخ ۱۳/۱۲/۹۹ پشتیبانی می‌شود. لطفا برای آپدیت کردن اپلیکیشن خود اقدام بفرمایید",
+            "url": "https://cafebazaar.ir/app/com.ShahGames.hambazi",
+            "dismissible": true
+        },
+        "configs": {
+            "businessMessage": "امروز روز خاصی است. بیاید به یکدیگر شادی هدیه بدهیم",
+            "test1": "value1",
+            "key2": "value2"
+        }
+    },
+    "error": null,
+    "statusCode": 200,
+    "serverDateTime": "2020-10-07T15:13:26.7637715+03:30"
+}
